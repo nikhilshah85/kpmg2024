@@ -1,0 +1,12 @@
+			
+Create a new query window
+
+1. create a database - bankingDB
+2. create a new table - accountsInfo
+	accNo, accName, accType, accBalance, accIsActive
+
+	add 15 real records (add accountno from 100, 101, 102 ..
+				real names,
+				type to be 'Savings','Current','PF'
+				balance 1000 t0 80000
+				some active accounts some inactive 
