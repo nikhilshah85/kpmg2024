@@ -1,0 +1,35 @@
+				OOPS
+
+		Object Oriented Programming System 
+
+
+			Object - Real world entity 
+
+			--Properties - which defines/recognize an object
+			--Methods - actions 			
+		--constructor - an inbuilt method called when a new
+				object is created
+			--ENUM
+			--Events 
+			--variables
+------------------------------------------------------------
+		Objects are created from a design - called blue print
+			we create a file - class file
+
+			class - they are also called as custom datatype
+----------------------------------------------------------------
+		To design this class in very proper way and manner
+		They have principles - pillars of OOPS
+
+			Abstraction
+			Encapsulation
+			Inheritance
+			Polymorphism
+	
+
+
+
+
+
+
+

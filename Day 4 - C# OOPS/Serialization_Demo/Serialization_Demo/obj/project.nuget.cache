@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zIuOXaDdYAAfmpX4TQe83ywYuJNQcR4Nbf2gtsHZKBlza3SJjdekSerGGqf/Q+OCD70G9HUpiNk6nfAGxETvSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikhi\\OneDrive\\Desktop\\KPMG\\kpmg2024\\Day 4 - C# OOPS\\Serialization_Demo\\Serialization_Demo\\Serialization_Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikhi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\nikhi\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\nikhi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\nikhi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

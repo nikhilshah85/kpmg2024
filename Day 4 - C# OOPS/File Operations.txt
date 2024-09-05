@@ -1,0 +1,19 @@
+				File Operations
+
+			System.IO 
+
+		Classes as below
+1. FileStream --- this will hold the file and rights on the file
+
+
+FileStream myFileObj = new FileStream("myfile.txt",FileMode.Create,FileAccess.Write);
+
+
+2. StreamWriter -- this will allow you to write into a file - this is Pen
+	StreamWriter pen = new StreamWriter(myFileObj); 
+	pen.WriteLine("Helloo");
+	pen.WriteLine("Welcome");
+	pen.WriteLine("Thanks for writing");
+
+3. StreamReader read = new StreamReader(myFileObj);
+	read.ReadToEnd();

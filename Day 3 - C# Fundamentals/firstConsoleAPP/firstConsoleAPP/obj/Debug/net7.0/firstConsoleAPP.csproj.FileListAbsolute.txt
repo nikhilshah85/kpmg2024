@@ -1,0 +1,15 @@
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 3 - C# Fundamentals\firstConsoleAPP\firstConsoleAPP\bin\Debug\net7.0\firstConsoleAPP.exe
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 3 - C# Fundamentals\firstConsoleAPP\firstConsoleAPP\bin\Debug\net7.0\firstConsoleAPP.deps.json
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 3 - C# Fundamentals\firstConsoleAPP\firstConsoleAPP\bin\Debug\net7.0\firstConsoleAPP.runtimeconfig.json
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 3 - C# Fundamentals\firstConsoleAPP\firstConsoleAPP\bin\Debug\net7.0\firstConsoleAPP.dll
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 3 - C# Fundamentals\firstConsoleAPP\firstConsoleAPP\bin\Debug\net7.0\firstConsoleAPP.pdb
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 3 - C# Fundamentals\firstConsoleAPP\firstConsoleAPP\obj\Debug\net7.0\firstConsoleAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 3 - C# Fundamentals\firstConsoleAPP\firstConsoleAPP\obj\Debug\net7.0\firstConsoleAPP.AssemblyInfoInputs.cache
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 3 - C# Fundamentals\firstConsoleAPP\firstConsoleAPP\obj\Debug\net7.0\firstConsoleAPP.AssemblyInfo.cs
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 3 - C# Fundamentals\firstConsoleAPP\firstConsoleAPP\obj\Debug\net7.0\firstConsoleAPP.csproj.CoreCompileInputs.cache
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 3 - C# Fundamentals\firstConsoleAPP\firstConsoleAPP\obj\Debug\net7.0\firstConsoleAPP.sourcelink.json
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 3 - C# Fundamentals\firstConsoleAPP\firstConsoleAPP\obj\Debug\net7.0\firstConsoleAPP.dll
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 3 - C# Fundamentals\firstConsoleAPP\firstConsoleAPP\obj\Debug\net7.0\refint\firstConsoleAPP.dll
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 3 - C# Fundamentals\firstConsoleAPP\firstConsoleAPP\obj\Debug\net7.0\firstConsoleAPP.pdb
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 3 - C# Fundamentals\firstConsoleAPP\firstConsoleAPP\obj\Debug\net7.0\firstConsoleAPP.genruntimeconfig.cache
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 3 - C# Fundamentals\firstConsoleAPP\firstConsoleAPP\obj\Debug\net7.0\ref\firstConsoleAPP.dll

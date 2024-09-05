@@ -1,0 +1,7 @@
+Hello and welcome 
+My Name is Nikhil
+I am from Mumbai
+I am a Trainer
+I love programming
+I am Certified
+Thank you bye

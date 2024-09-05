@@ -1,0 +1,51 @@
+			C# - OOPS
+	
+	Object 
+		Properties, methods
+	Class
+-------------------------------------------------------------
+		Abstraction
+		Encapsulation
+		Inheritance
+		Polymprphism
+
+-------------------------------------------------------------------	
+	Abstraction - (result of requirement understanding) 
+			consider only those properties, methods which are in scope of object 			and application)
+		Blood group is imp for an employee Obj ?
+		Blood group is imp for a bank account ?
+		Blood group is imp for a bank account ?
+
+	Encapsulaption - (store data in a private variable only, and never share access of 				it to any 1 - even yourself)
+			so we have properties (getter and setter)
+			we have methods (60 lines of code, no one can see the logic in it)
+
+	Inheritance - (re-use)
+
+	polymprphism - same method name, same signature but different behaviour
+		leave policy for emp
+			HR can apply max 8 days 
+			Manager can apply max 3 days
+			developer can apply max 10 days 
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+			
+			

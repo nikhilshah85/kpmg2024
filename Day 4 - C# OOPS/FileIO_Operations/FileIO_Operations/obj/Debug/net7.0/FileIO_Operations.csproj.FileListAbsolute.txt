@@ -1,0 +1,15 @@
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 4 - C# OOPS\FileIO_Operations\FileIO_Operations\bin\Debug\net7.0\FileIO_Operations.exe
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 4 - C# OOPS\FileIO_Operations\FileIO_Operations\bin\Debug\net7.0\FileIO_Operations.deps.json
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 4 - C# OOPS\FileIO_Operations\FileIO_Operations\bin\Debug\net7.0\FileIO_Operations.runtimeconfig.json
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 4 - C# OOPS\FileIO_Operations\FileIO_Operations\bin\Debug\net7.0\FileIO_Operations.dll
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 4 - C# OOPS\FileIO_Operations\FileIO_Operations\bin\Debug\net7.0\FileIO_Operations.pdb
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 4 - C# OOPS\FileIO_Operations\FileIO_Operations\obj\Debug\net7.0\FileIO_Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 4 - C# OOPS\FileIO_Operations\FileIO_Operations\obj\Debug\net7.0\FileIO_Operations.AssemblyInfoInputs.cache
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 4 - C# OOPS\FileIO_Operations\FileIO_Operations\obj\Debug\net7.0\FileIO_Operations.AssemblyInfo.cs
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 4 - C# OOPS\FileIO_Operations\FileIO_Operations\obj\Debug\net7.0\FileIO_Operations.csproj.CoreCompileInputs.cache
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 4 - C# OOPS\FileIO_Operations\FileIO_Operations\obj\Debug\net7.0\FileIO_Operations.sourcelink.json
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 4 - C# OOPS\FileIO_Operations\FileIO_Operations\obj\Debug\net7.0\FileIO_Operations.dll
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 4 - C# OOPS\FileIO_Operations\FileIO_Operations\obj\Debug\net7.0\refint\FileIO_Operations.dll
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 4 - C# OOPS\FileIO_Operations\FileIO_Operations\obj\Debug\net7.0\FileIO_Operations.pdb
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 4 - C# OOPS\FileIO_Operations\FileIO_Operations\obj\Debug\net7.0\FileIO_Operations.genruntimeconfig.cache
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 4 - C# OOPS\FileIO_Operations\FileIO_Operations\obj\Debug\net7.0\ref\FileIO_Operations.dll

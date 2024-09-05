@@ -1,0 +1,15 @@
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 4 - C# OOPS\Serialization_Demo\Serialization_Demo\bin\Debug\net7.0\Serialization_Demo.exe
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 4 - C# OOPS\Serialization_Demo\Serialization_Demo\bin\Debug\net7.0\Serialization_Demo.deps.json
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 4 - C# OOPS\Serialization_Demo\Serialization_Demo\bin\Debug\net7.0\Serialization_Demo.runtimeconfig.json
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 4 - C# OOPS\Serialization_Demo\Serialization_Demo\bin\Debug\net7.0\Serialization_Demo.dll
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 4 - C# OOPS\Serialization_Demo\Serialization_Demo\bin\Debug\net7.0\Serialization_Demo.pdb
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 4 - C# OOPS\Serialization_Demo\Serialization_Demo\obj\Debug\net7.0\Serialization_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 4 - C# OOPS\Serialization_Demo\Serialization_Demo\obj\Debug\net7.0\Serialization_Demo.AssemblyInfoInputs.cache
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 4 - C# OOPS\Serialization_Demo\Serialization_Demo\obj\Debug\net7.0\Serialization_Demo.AssemblyInfo.cs
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 4 - C# OOPS\Serialization_Demo\Serialization_Demo\obj\Debug\net7.0\Serialization_Demo.csproj.CoreCompileInputs.cache
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 4 - C# OOPS\Serialization_Demo\Serialization_Demo\obj\Debug\net7.0\Serialization_Demo.sourcelink.json
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 4 - C# OOPS\Serialization_Demo\Serialization_Demo\obj\Debug\net7.0\Serialization_Demo.dll
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 4 - C# OOPS\Serialization_Demo\Serialization_Demo\obj\Debug\net7.0\refint\Serialization_Demo.dll
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 4 - C# OOPS\Serialization_Demo\Serialization_Demo\obj\Debug\net7.0\Serialization_Demo.pdb
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 4 - C# OOPS\Serialization_Demo\Serialization_Demo\obj\Debug\net7.0\Serialization_Demo.genruntimeconfig.cache
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 4 - C# OOPS\Serialization_Demo\Serialization_Demo\obj\Debug\net7.0\ref\Serialization_Demo.dll

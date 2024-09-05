@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Employee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <empNo>2</empNo>
+  <empName>Mohit</empName>
+  <empSalary>16000</empSalary>
+  <empIsPermenant>false</empIsPermenant>
+  <empDesignation>Accounts</empDesignation>
+</Employee>

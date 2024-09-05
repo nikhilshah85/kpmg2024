@@ -1,0 +1,11 @@
+in the same application 
+	
+	comment all the code in program.cs
+------------------------------------------------------------------------------------
+		create a list of employee, have 10 employees in the list
+	
+		 serialize list of employees in XML and JSON format both
+		employeelist.xml
+		employeelist.json
+
+

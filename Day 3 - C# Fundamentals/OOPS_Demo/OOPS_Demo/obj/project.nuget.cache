@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y+meFsX9wfPNaLTKn8/bEbgZ8ZYI2Xj/bHhit390QvpCVMfg3qZscH4SdsXu+XjbMOW4ptI2tikrg1Q8oo69Gg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikhi\\OneDrive\\Desktop\\KPMG\\kpmg2024\\Day 3 - C# Fundamentals\\OOPS_Demo\\OOPS_Demo\\OOPS_Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikhi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\nikhi\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\nikhi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\nikhi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

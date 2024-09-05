@@ -1,0 +1,15 @@
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 3 - C# Fundamentals\OOPS_Demo\OOPS_Demo\bin\Debug\net7.0\OOPS_Demo.exe
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 3 - C# Fundamentals\OOPS_Demo\OOPS_Demo\bin\Debug\net7.0\OOPS_Demo.deps.json
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 3 - C# Fundamentals\OOPS_Demo\OOPS_Demo\bin\Debug\net7.0\OOPS_Demo.runtimeconfig.json
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 3 - C# Fundamentals\OOPS_Demo\OOPS_Demo\bin\Debug\net7.0\OOPS_Demo.dll
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 3 - C# Fundamentals\OOPS_Demo\OOPS_Demo\bin\Debug\net7.0\OOPS_Demo.pdb
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 3 - C# Fundamentals\OOPS_Demo\OOPS_Demo\obj\Debug\net7.0\OOPS_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 3 - C# Fundamentals\OOPS_Demo\OOPS_Demo\obj\Debug\net7.0\OOPS_Demo.AssemblyInfoInputs.cache
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 3 - C# Fundamentals\OOPS_Demo\OOPS_Demo\obj\Debug\net7.0\OOPS_Demo.AssemblyInfo.cs
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 3 - C# Fundamentals\OOPS_Demo\OOPS_Demo\obj\Debug\net7.0\OOPS_Demo.csproj.CoreCompileInputs.cache
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 3 - C# Fundamentals\OOPS_Demo\OOPS_Demo\obj\Debug\net7.0\OOPS_Demo.sourcelink.json
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 3 - C# Fundamentals\OOPS_Demo\OOPS_Demo\obj\Debug\net7.0\OOPS_Demo.dll
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 3 - C# Fundamentals\OOPS_Demo\OOPS_Demo\obj\Debug\net7.0\refint\OOPS_Demo.dll
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 3 - C# Fundamentals\OOPS_Demo\OOPS_Demo\obj\Debug\net7.0\OOPS_Demo.pdb
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 3 - C# Fundamentals\OOPS_Demo\OOPS_Demo\obj\Debug\net7.0\OOPS_Demo.genruntimeconfig.cache
+C:\Users\nikhi\OneDrive\Desktop\KPMG\kpmg2024\Day 3 - C# Fundamentals\OOPS_Demo\OOPS_Demo\obj\Debug\net7.0\ref\OOPS_Demo.dll

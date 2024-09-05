@@ -1,0 +1,18 @@
+File IO is designed for primitive data types
+
+	but for custom datatype, we need to store object, and in a format (XML, JSON, binary...)
+
+	Serialization - Save object from memory(RAM) to a storage(Disk / network)
+	Deserializaion - Bring the object back from disk to ram
+	
+		XML and JSON formats are used
+-----------------------------------------------------------------------------------------------------
+		using System.Runtime.Serializtion;
+
+
+	Serailization : When you want to persist the state of an object to a storage or network 
+			use Serialization
+			
+			Process of bringing that object back into memory is called deserialization
+
+	
